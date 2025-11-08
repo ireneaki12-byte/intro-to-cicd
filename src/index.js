@@ -1,4 +1,4 @@
-//this is my comment
+//this is my comment too
 function sayHi(name) {
   return `Hello there ${name}`
 }
